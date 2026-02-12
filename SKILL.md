@@ -1,12 +1,10 @@
 ---
 name: moral-ambiguity-navigation
-description: Navigate decisions where all available options involve moral compromise
-  - accepting responsibility for imperfect choices while acting decisively in situations
-  where moral purity is impossible.
+description: Navigate decisions where all available options involve moral compromise - accepting responsibility for imperfect choices while acting decisively in situations where moral purity is impossible.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - moral-ambiguity-navigation
 - writing
